@@ -18,9 +18,8 @@ Para executar o **PyQTerminal**, é necessário que você tenha o Python 3 e as 
 
 - **Python 3.x**
 - **PyQt5**: Interface gráfica para o Python.
-- **ConfigParser**: Para gerenciar as configurações do terminal.
 
 Você pode instalar as dependências usando `pip`:
 
 ```bash
-pip install PyQt5 configparser
+pip install PyQt5
